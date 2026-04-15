@@ -44,7 +44,7 @@
 #                   FEELING - clearly not behavioral - is introduced. 
 
 
-# Network Phenomena
+# Network Setup
 
 # A:
 #   b:      (1) tendency to reduce behavior (in the absence of reinforcement)
